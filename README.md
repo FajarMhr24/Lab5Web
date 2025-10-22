@@ -70,7 +70,6 @@ Fungsi ini digunakan untuk mengubah warna teks (font).
 
 `<input type="button"` ...>
 Membuat tombol.
-<img width="944" height="768" alt="Screenshot 2025-10-22 194646" src="https://github.com/user-attachments/assets/f42200ad-a718-472d-bbde-797e03d08cee" />
 
 `onClick="ubahWarnaLB('RED')"`
 Artinya: ketika tombol diklik, panggil fungsi `ubahWarnaLB()` dan kirimkan parameter `'RED'`.
